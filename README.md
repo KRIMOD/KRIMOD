@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**KRIMOD/KRIMOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack web Developer working in Algiers, Algeria. 
+##### Graduated as a Software engineer in Information Systems and Technologies from Ecole Nationale Supérieure d'informatique (Esi ex Ini).
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently searching for a remote job
+
+##### BIO
+
+- ⚙️ I use daily: `.ts`, `.js`, `.tailwind`, `.stories`, `.figma`
+- 🌍 I'm mostly active within the **Nextjs and tailwind community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Typescript**, **Tailwind**, **Figma**, **development**, **architecture**, **Information systems**, **Processes**
+- 📫 Reach me: [twitter.com/Krrrimo](https://twitter.com/Krrrimo)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
