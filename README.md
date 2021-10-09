@@ -5,7 +5,7 @@
 
 ##### NOW
 
-- 🏢 I'm currently searching for a remote job
+- 🏢 I'm currently searching for a job
 
 ##### BIO
 
