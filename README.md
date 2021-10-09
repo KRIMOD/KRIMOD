@@ -5,7 +5,7 @@
 
 ##### NOW
 
-- 🏢 I'm currently searching for a job
+- 🏢 I'm currently looking for work
 
 ##### BIO
 
